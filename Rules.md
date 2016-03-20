@@ -31,6 +31,6 @@ MORE RULES
 
 4. If a singular and plural subject are connected by `either-or`, `neither-nor`, `or`, or `nor` the verb should agree the subject closer to it.
 
-	1.Neither Bob nor the others were able to get up from their seats.
+	1. Neither Bob nor the others were able to get up from their seats.
 
-	2.Neither the others nor Bob was able to get up from their seats.
+	2. Neither the others nor Bob was able to get up from their seats.
